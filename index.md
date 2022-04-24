@@ -64,7 +64,7 @@ Los requisitos que debe cumplir la aplicación de procesamiento de notas de text
 
 1. Un usuario solo puede interactuar con la aplicación de procesamiento de notas de texto a través de la línea de comandos. Los diferentes comandos, opciones de los mismos, así como manejadores asociados a cada uno de ellos deben gestionarse mediante el uso del paquete yargs.
 
-### 4.2 Código notes.ts
+### 4.2 Código note.ts
 
 ```ts
 /* eslint-disable no-unused-vars */
@@ -333,7 +333,7 @@ No se pueden mostrar la nota de un título que no existe para un usuario.
 ### 4.3 Código app.ts
 
 ```ts
-import {Notes, colors} from './notes';
+import {Notes, colors} from './note';
 import * as yargs from 'yargs';
 
 const notes :Notes = Notes.getNotes();

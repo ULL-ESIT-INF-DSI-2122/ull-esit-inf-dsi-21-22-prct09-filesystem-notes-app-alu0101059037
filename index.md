@@ -523,23 +523,23 @@ Finalmente debemos llamar a `yargs.parse()`, para procesar argumentos pasados de
 
   * **add**: 
   ```bash 
-  node dist/note.js add --user="daniel" --title="Red note" --body="This is a red note" --color="red"
+  node dist/note.js add --user="jose" --title="Red note" --body="This is a red note" --color="red"
   ```
   * **modify**:
   ```bash 
-  node dist/note.js modify --user="daniel" --title="Red note" --body="This is a red note overwrited" --color="red"
+  node dist/note.js modify --user="jose" --title="Red note" --body="This is a red note overwrited" --color="red"
   ```
   * **remove**:
   ```bash 
-  node dist/note.js remove --user="daniel" --title="Red note"
+  node dist/note.js remove --user="jose" --title="Red note"
   ```
   * **list**:
   ```bash 
-  node dist/note.js list --user="daniel"
+  node dist/note.js list --user="jose"
   ```
   * **read**:
   ```bash 
-  node dist/note.js read --user="daniel" --title="Red note"
+  node dist/note.js read --user="jose" --title="Red note"
   ```
 
 ### 4.4 Tests TDD de la práctica

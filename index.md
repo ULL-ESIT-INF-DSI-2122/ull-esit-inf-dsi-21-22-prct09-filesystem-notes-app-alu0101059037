@@ -21,7 +21,7 @@ La realización de esta práctica tiene como objetivo aprender:
 
 Antes de comenzar a realizar los ejercicios, deberíamos realizar las siguientes tareas:
 
-- Aceptar la [asignación de GitHub Classroom](https://classroom.github.com/assignment-invitations/906f18610f5e4a289890edf2c0ceb0f4/status) asociada a esta práctica.
+- Aceptar la [asignación de GitHub Classroom](https://classroom.github.com/a/8yO8h5vy) asociada a esta práctica.
 - Leer la documentación de [yargs](https://www.npmjs.com/package/yargs), una herramienta que permite crear una línea de comandos interactivas, analizando argumentos y generando una elegante interfaz de usuario.
 - Leer la documentación sobre [chalk](https://www.npmjs.com/package/chalk), una herramienta que permite el uso de colores en los console.log().
 - Iniciar sesión en [SonarCloud](https://sonarcloud.io/).
